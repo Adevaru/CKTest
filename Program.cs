@@ -9,6 +9,7 @@ namespace CTKDriverTest
     {
         /// <summary>
         /// The main entry point for the application.
+        /// I just wanted to add some text
         /// </summary>
         [STAThread]
         static void Main()
